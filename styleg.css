@@ -1,0 +1,12 @@
+.bg-pink {
+    background-color: #f78fb3;
+  }
+  
+  .text-pink {
+    color: #f78fb3;
+  }
+  
+  a.text-pink:hover {
+    text-decoration: underline;
+  }
+  
